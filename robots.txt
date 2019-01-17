@@ -1,2 +1,3 @@
 User-agent: *
-Allow:/
+허용 : /
+사이트 맵 : https : // dicowiki.kro.kr
